@@ -23,7 +23,7 @@ Aumentar tamaño: agranda el modelo.
 
 Reducir tamaño: lo hace más pequeño.
 
-Rotar: gira el modelo sobre su eje Y.
+Rotar: gira el modelo sobre su eje.
 
 Mostrar/Ocultar: permite ocultar o volver a mostrar el modelo.
 
